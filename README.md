@@ -11,8 +11,7 @@ How to Use the Telegram Remove Background Bot
     -   First, clone the repository to your local machine using the following command:
 
         ```
-        [git clone https://github.com/your-username/telegram-remove-background-bot.git](https://github.com/noteduard33/telegram-remove-background-bot.git)
-
+        git clone https://github.com/noteduard33/telegram-remove-background-bot.git
         ```
 
 2.  **Navigate to the Bot Directory**:
@@ -21,7 +20,6 @@ How to Use the Telegram Remove Background Bot
 
         ```
         cd telegram-remove-background-bot
-
         ```
 
 3.  **Create a Virtual Environment**:
@@ -30,7 +28,6 @@ How to Use the Telegram Remove Background Bot
 
         ```
         python -m venv env
-
         ```
 
 4.  **Activate the Virtual Environment**:
@@ -43,14 +40,12 @@ How to Use the Telegram Remove Background Bot
         activate
         cd ..
         cd ..
-
         ```
 
     -   On Linux:
 
         ```
         source env/bin/activate
-
         ```
 
 5.  **Install Dependencies**:
@@ -59,7 +54,6 @@ How to Use the Telegram Remove Background Bot
 
         ```
         pip install -r requirements.txt
-
         ```
 
 6.  **Get Your Telegram API Token**:
@@ -75,7 +69,6 @@ How to Use the Telegram Remove Background Bot
 
         ```
         TOKEN='YOUR TOKEN'
-
         ```
         
 8.  **Create folders**:
@@ -91,7 +84,6 @@ How to Use the Telegram Remove Background Bot
         - .env
         - bot.py
         - requirements.txt
-
         ```
         
 9.  **Run the Bot**:
@@ -100,7 +92,6 @@ How to Use the Telegram Remove Background Bot
 
         ```
         python bot.py
-
         ```
 
 10.  **Test Your Bot**:
