@@ -1,4 +1,7 @@
-My sincere apologies for the oversight! Let's create a more detailed **"How to Use"** section for your **Telegram Remove Background Bot**. Thank you for your patience! Here are the step-by-step instructions:
+Video Tutorial
+--------------
+
+For a visual guide, check out my YouTube video on how to run this bot: YouTube Tutorial
 
 How to Use the Telegram Remove Background Bot
 ---------------------------------------------
@@ -8,7 +11,7 @@ How to Use the Telegram Remove Background Bot
     -   First, clone the repository to your local machine using the following command:
 
         ```
-        git clone https://github.com/your-username/telegram-remove-background-bot.git
+        [git clone https://github.com/your-username/telegram-remove-background-bot.git](https://github.com/noteduard33/telegram-remove-background-bot.git)
 
         ```
 
@@ -67,11 +70,11 @@ How to Use the Telegram Remove Background Bot
     -   Once created, BotFather will provide you with an **API token**. Copy this token.
 7.  **Create a .env File**:
 
-    -   In the root directory of your bot, create a `.env` file.
-    -   Add the following line to the `.env` file, replacing `<YOUR_API_TOKEN>` with the actual API token:
+    -   In the root directory of your bot, find a `.env` file.
+    -   Replacing `'YOUR TOKEN'` with the actual API token:
 
         ```
-        TELEGRAM_API_TOKEN=<YOUR_API_TOKEN>
+        TOKEN='YOUR TOKEN'
 
         ```
 
@@ -88,13 +91,5 @@ How to Use the Telegram Remove Background Bot
 
     -   Open Telegram and search for your bot using the username you set earlier.
     -   Start a chat with your bot and send an image.
-    -   Use the `/remove` command to initiate background removal.
     -   Wait for the bot to process the image and receive the edited version.
 10. **Enjoy!** Your Telegram Remove Background Bot is now up and running. Good luck! 🚀
-
-Video Tutorial
---------------
-
-For a visual guide, check out my YouTube video on how to run this bot: YouTube Tutorial
-
-Feel free to reach out if you have any questions or need further assistance. Happy bot building! 😊
