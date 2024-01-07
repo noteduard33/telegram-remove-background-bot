@@ -70,15 +70,31 @@ How to Use the Telegram Remove Background Bot
     -   Once created, BotFather will provide you with an **API token**. Copy this token.
 7.  **Create a .env File**:
 
-    -   In the root directory of your bot, find a `.env` file.
-    -   Replacing `'YOUR TOKEN'` with the actual API token:
+    -   In the root directory of your bot, create a `.env` file.
+    -   Add there code below and `'YOUR TOKEN'` with the actual API token:
 
         ```
         TOKEN='YOUR TOKEN'
 
         ```
+        
+8.  **Create folders**:
 
-8.  **Run the Bot**:
+    -   In the root directory of your bot(where is bot.py file)
+    -   Create folder with name "images" and inside create "removed" folder.
+    -   So you project structure will look like:
+
+        ```
+        telegram-remove-background-bot
+        - images
+            - removed
+        - .env
+        - bot.py
+        - requirements.txt
+
+        ```
+        
+9.  **Run the Bot**:
 
     -   Execute the following command to start your bot:
 
@@ -87,9 +103,9 @@ How to Use the Telegram Remove Background Bot
 
         ```
 
-9.  **Test Your Bot**:
+10.  **Test Your Bot**:
 
     -   Open Telegram and search for your bot using the username you set earlier.
     -   Start a chat with your bot and send an image.
     -   Wait for the bot to process the image and receive the edited version.
-10. **Enjoy!** Your Telegram Remove Background Bot is now up and running. Good luck! 🚀
+11. **Enjoy!** Your Telegram Remove Background Bot is now up and running. Good luck! 🚀
