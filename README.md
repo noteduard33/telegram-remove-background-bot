@@ -1,7 +1,7 @@
 Video Tutorial
 --------------
 
-For a visual guide, check out my YouTube video on how to run this bot: YouTube Tutorial
+For a visual guide, check out my YouTube video on how to run this bot: (https://youtu.be/yNhMg4pVEfw?si=9xyeOOy8eC39FRJr)
 
 How to Use the Telegram Remove Background Bot
 ---------------------------------------------
