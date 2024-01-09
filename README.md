@@ -100,3 +100,7 @@ How to Use the Telegram Remove Background Bot
     -   Start a chat with your bot and send an image.
     -   Wait for the bot to process the image and receive the edited version.
 11. **Enjoy!** Your Telegram Remove Background Bot is now up and running. Good luck! 🚀
+
+
+P.s. If you want, you can support me and my projects! 
+Patreon: https://www.patreon.com/not33
